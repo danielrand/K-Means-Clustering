@@ -25,7 +25,6 @@
 /* Begin PBXFileReference section */
 		4C1C8CB823216A6400E94B2E /* K-Means_Clustering */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "K-Means_Clustering"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C1C8CBB23216A6400E94B2E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		4C1C8CC223216C3900E94B2E /* Kmeans_image_data2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Kmeans_image_data2.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +58,6 @@
 			isa = PBXGroup;
 			children = (
 				4C1C8CBB23216A6400E94B2E /* main.cpp */,
-				4C1C8CC223216C3900E94B2E /* Kmeans_image_data2.txt */,
 			);
 			path = "K-Means_Clustering";
 			sourceTree = "<group>";
