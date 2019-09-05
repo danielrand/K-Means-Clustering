@@ -6,7 +6,7 @@ Provided a sample "image" text file consiting of binary values there are k group
 ## Sample Input
 https://github.com/danielrand/K-Means-Clustering/blob/master/Sample_Input/Kmeans_image_data2.txt
 
-## Sample output
+## Sample Output
 https://github.com/danielrand/K-Means-Clustering/blob/master/Sample_Output/outFile2.txt
 
 # How to run
@@ -16,5 +16,6 @@ Requires 5 command line arguments:
 3) debug output file
 4) Algorithm iteration output, and final result
 5) debug output file
+
 It should look something like this (using the files provided in sample input for example):
 ./a.out ../Sample_Input/Kmeans_image_data2.txt 6 ../Sample_Input/outFile1.txt ../Sample_Input/outFile2.txt ../Sample_Input/outFile3.txt 
